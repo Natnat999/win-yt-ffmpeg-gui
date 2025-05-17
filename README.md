@@ -1,5 +1,5 @@
 # Video Tools
-
+[![Build Windows Executable](https://github.com/Natnat999/win-yt-ffmpeg-gui/actions/workflows/build.yml/badge.svg)](https://github.com/Natnat999/win-yt-ffmpeg-gui/actions/workflows/build.yml)
 A modern, user-friendly Windows application for downloading YouTube videos and processing video files using FFmpeg. Built with Python and PyQt6, Video Tools provides a beautiful GUI for both beginners and advanced users.
 
 ---
